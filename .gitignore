@@ -1,0 +1,5 @@
+project_index.md
+*.bak
+__pycache__/
+*.pyc
+.DS_Store
